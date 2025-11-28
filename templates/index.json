@@ -6,8 +6,7 @@
  * or related systems. Please exercise caution as any changes
  * made to this file may be overwritten.
  * ------------------------------------------------------------
- */
-{
+ */{
   "sections": {
     "hero_jVaWmY": {
       "type": "hero",
@@ -16,7 +15,25 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Browse our latest products</p>"
+            "text": "<p>Browse our latest products</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground-heading)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
           },
           "blocks": {}
         },
@@ -27,7 +44,11 @@
             "label": "Shop all",
             "link": "shopify://collections/all",
             "open_in_new_tab": false,
-            "style_class": "button-secondary"
+            "style_class": "button-secondary",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
           },
           "blocks": {}
         }
@@ -40,7 +61,6 @@
       "settings": {
         "media_type_1": "image",
         "media_type_2": "image",
-        "link": "",
         "open_in_new_tab": false,
         "content_direction": "column",
         "vertical_on_mobile": true,
@@ -237,7 +257,7 @@
           ]
         }
       },
-      "name": "t:names.featured_collection",
+      "name": "Featured collection",
       "settings": {
         "collection": "all",
         "layout_type": "grid",
@@ -257,63 +277,10 @@
         "padding-block-start": 48,
         "padding-block-end": 48
       }
-    },
-    "text_with_image_38eGQj": {
-      "type": "text-with-image",
-      "blocks": {
-        "heading_gQALJN": {
-          "type": "heading",
-          "name": "t:names.subheading",
-          "settings": {
-            "text": "Subheading",
-            "type": "span"
-          },
-          "blocks": {}
-        },
-        "heading_hqThTz": {
-          "type": "heading",
-          "name": "t:names.heading",
-          "settings": {
-            "text": "Heading",
-            "type": "h2"
-          },
-          "blocks": {}
-        },
-        "text_jWUA3J": {
-          "type": "text",
-          "name": "t:names.text",
-          "settings": {
-            "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>"
-          },
-          "blocks": {}
-        },
-        "button_KizRgM": {
-          "type": "button",
-          "name": "t:names.button",
-          "settings": {
-            "label": "Shop now",
-            "link": "shopify://collections/all",
-            "open_in_new_tab": false,
-            "style_class": "button"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "heading_gQALJN",
-        "heading_hqThTz",
-        "text_jWUA3J",
-        "button_KizRgM"
-      ],
-      "name": "Text with Image",
-      "settings": {
-        "image": "shopify://shop_images/theme_cover_image.jpg"
-      }
     }
   },
   "order": [
     "hero_jVaWmY",
-    "product_list_fa6P9H",
-    "text_with_image_38eGQj"
+    "product_list_fa6P9H"
   ]
 }
