@@ -109,10 +109,32 @@
         "enable_transparent_header_collection": false,
         "collection_color_scheme": "default"
       }
+    },
+    "text_with_image_dyfKdr": {
+      "type": "text-with-image",
+      "blocks": {
+        "text_9J9kxX": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>Beetje text</p>"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_9J9kxX"
+      ],
+      "name": "Text with Image",
+      "settings": {
+        "image": "shopify://shop_images/Hero_Section.webp",
+        "image_alignment": "image-text"
+      }
     }
   },
   "order": [
     "header_announcements_9jGBFp",
-    "header_section"
+    "header_section",
+    "text_with_image_dyfKdr"
   ]
 }
