@@ -1,0 +1,49 @@
+{{ 'sections--text-with-image.css' | asset_url | stylesheet_tag }}
+
+<div class="section">
+  <div class="section-text-with-image section-text-with-image--{{ section.settings.image_alignment }}">
+    <div class="section-text-with-image__image">
+      <img src="{{ section.settings.image | image_url: width: 1000 }}" alt="{{ section.settings.image.alt }}" width="1000" height="1000">
+    </div>
+    <div class="section-text-with-image__content">
+      {% content_for 'blocks' %}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Text with Image",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "select",
+      "id": "image_alignment",
+      "label": "Image alignment",
+      "options": [
+        {
+          "value": "image-text",
+          "label": "Image left, text right"
+        },
+        {
+          "value": "text-image",
+          "label": "Text left, image right"
+        }
+      ],
+      "default": "image-text"
+    }
+  ],
+  "blocks": [
+    { "type": "heading" },
+    { "type": "text" },
+    { "type": "button" }
+  ],
+  "presets": [
+    { "name": "Text with Image" }
+  ]
+}
+{% endschema %}

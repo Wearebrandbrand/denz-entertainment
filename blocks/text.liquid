@@ -1,0 +1,24 @@
+{% render 'text', block: block %}
+
+{% schema %}
+{
+  "name": "t:names.text",
+  "tag": null,
+  "settings": [
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "t:settings.text"
+    }
+  ],
+  "presets": [
+    {
+      "name": "t:names.text",
+      "category": "t:categories.basic",
+      "settings": {
+        "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>"
+      }
+    }
+  ]
+}
+{% endschema %}
