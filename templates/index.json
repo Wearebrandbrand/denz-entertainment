@@ -2164,7 +2164,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Ons kenmerkende product</h2>",
+                "text": "<h2>Casus 1:</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -2210,26 +2210,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_Wh9LNU": {
-              "type": "button",
-              "settings": {
-                "label": "Nu shoppen",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_KhmFqC",
-            "text_jNEpAc",
-            "button_Wh9LNU"
+            "text_jNEpAc"
           ]
         }
       },
@@ -2312,7 +2297,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Ons kenmerkende product</h2>",
+                "text": "<h2>Casus 2:</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -2358,26 +2343,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_VYMPxy": {
-              "type": "button",
-              "settings": {
-                "label": "Nu shoppen",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_DMqEGJ",
-            "text_abyCtQ",
-            "button_VYMPxy"
+            "text_abyCtQ"
           ]
         },
         "image_cjCPT3": {
@@ -2502,7 +2472,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Ons kenmerkende product</h2>",
+                "text": "<h2>Casus 3:</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -2548,26 +2518,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_VRMXaD": {
-              "type": "button",
-              "settings": {
-                "label": "Nu shoppen",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_frQdDB",
-            "text_ymEjXH",
-            "button_VRMXaD"
+            "text_ymEjXH"
           ]
         }
       },
