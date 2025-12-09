@@ -85,6 +85,32 @@
           },
           "blocks": {}
         },
+        "text_fLtpt9": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>voor feesten, bedrijfsevents en bruiloften</h2>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
         "text_PXYWUU": {
           "type": "text",
           "settings": {
@@ -110,26 +136,88 @@
           },
           "blocks": {}
         },
-        "button_nKVfRq": {
-          "type": "button",
-          "name": "t:names.button",
+        "group_9tab4b": {
+          "type": "group",
+          "name": "t:names.group",
           "settings": {
-            "label": "Nu shoppen",
-            "link": "shopify://collections/all",
-            "open_in_new_tab": false,
-            "style_class": "button",
-            "width": "fit-content",
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "center",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "width": "fill",
             "custom_width": 100,
-            "width_mobile": "fit-content",
-            "custom_width_mobile": 100
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "inherit_color_scheme": true,
+            "color_scheme": "",
+            "background_media": "none",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_radius": 0,
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
           },
-          "blocks": {}
+          "blocks": {
+            "button_Qyi6tC": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Bekijk onze pakketten",
+                "link": "shopify://collections/all",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            },
+            "button_EkdmFW": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Vraag  een offerte aan",
+                "link": "shopify://collections/all",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "button_Qyi6tC",
+            "button_EkdmFW"
+          ]
         }
       },
       "block_order": [
         "text_EcqUcG",
+        "text_fLtpt9",
         "text_PXYWUU",
-        "button_nKVfRq"
+        "group_9tab4b"
       ],
       "name": "t:names.hero",
       "settings": {
@@ -155,7 +243,7 @@
         "section_height_custom": 50,
         "color_scheme": "scheme-5",
         "toggle_overlay": true,
-        "overlay_color": "#00000026",
+        "overlay_color": "#00000087",
         "overlay_style": "gradient",
         "gradient_direction": "to top",
         "blurred_reflection": false,
