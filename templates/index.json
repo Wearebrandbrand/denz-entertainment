@@ -57,7 +57,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Eventverhuur & evenementen op maat</p>",
+            "text": "<p>Evenementen & feestverhuur in Westland</p>",
             "width": "100%",
             "max_width": "none",
             "alignment": "center",
@@ -79,11 +79,63 @@
           },
           "blocks": {}
         },
+        "text_86njLx": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>Complete techniek en eventservice</h2>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "h3",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_Y9qUJn": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>Van bedrijfsfeest tot bruiloft: Denz verzorgt entertainment, licht, geluid en crew op één plek.</p>",
+            "width": "100%",
+            "max_width": "none",
+            "alignment": "center",
+            "type_preset": "custom",
+            "font": "var(--font-body--family)",
+            "font_size": "1.5rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
         "button_H9gpTf": {
           "type": "button",
           "name": "t:names.button",
           "settings": {
-            "label": "Nu apparatuur huren",
+            "label": "Offerte aanvragen",
             "link": "shopify://collections/all",
             "open_in_new_tab": true,
             "style_class": "button-secondary",
@@ -98,7 +150,7 @@
           "type": "button",
           "name": "t:names.button",
           "settings": {
-            "label": "Evenement plannen",
+            "label": "Bekijk onze diensten",
             "link": "shopify://collections/all",
             "open_in_new_tab": true,
             "style_class": "button-secondary",
@@ -108,150 +160,15 @@
             "custom_width_mobile": 100
           },
           "blocks": {}
-        },
-        "marquee_z8rQ3n": {
-          "type": "_marquee",
-          "name": "t:names.marquee",
-          "settings": {
-            "movement_direction": "normal",
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "transparent_background": true,
-            "padding-block-start": 24,
-            "padding-block-end": 24,
-            "gap_between_elements": 24
-          },
-          "blocks": {
-            "icon_QK9HRy": {
-              "type": "icon",
-              "name": "t:names.icon",
-              "settings": {
-                "icon": "price_tag",
-                "image_upload": "shopify://shop_images/music-solid-full_1.svg",
-                "width": 24,
-                "link": "",
-                "open_in_new_tab": false
-              },
-              "blocks": {}
-            },
-            "text_tzreJK": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Ervaren in bruiloften, bedrijfsfeesten & festivals</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "icon_HzT7QP": {
-              "type": "icon",
-              "name": "t:names.icon",
-              "settings": {
-                "icon": "price_tag",
-                "image_upload": "shopify://shop_images/headphones-solid-full_1.svg",
-                "width": 24,
-                "link": "",
-                "open_in_new_tab": false
-              },
-              "blocks": {}
-            },
-            "text_pHzW79": {
-              "type": "text",
-              "settings": {
-                "text": "<p>Eén partner voor techniek, muziek en support</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "custom",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "tight",
-                "letter_spacing": "tight",
-                "case": "none",
-                "wrap": "nowrap",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "icon_trAGFk": {
-              "type": "icon",
-              "name": "t:names.icon",
-              "settings": {
-                "icon": "price_tag",
-                "image_upload": "shopify://shop_images/map-pin-solid-full.svg",
-                "width": 24,
-                "link": "",
-                "open_in_new_tab": false
-              },
-              "blocks": {}
-            },
-            "text_xaF4pw": {
-              "type": "text",
-              "name": "t:names.text",
-              "settings": {
-                "text": "<p>Lokale verhurspecialist in het Westland</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "icon_QK9HRy",
-            "text_tzreJK",
-            "icon_HzT7QP",
-            "text_pHzW79",
-            "icon_trAGFk",
-            "text_xaF4pw"
-          ]
         }
       },
       "block_order": [
         "group_TeJATL",
         "text_YLPk4p",
+        "text_86njLx",
+        "text_Y9qUJn",
         "button_H9gpTf",
-        "button_nC8fbP",
-        "marquee_z8rQ3n"
+        "button_nC8fbP"
       ],
       "name": "t:names.hero",
       "settings": {
@@ -293,7 +210,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Wat kunnen we voor jouw event doen?</h2>",
+            "text": "<h2>Feestverhuur in Westland voor elk type event</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -319,7 +236,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Professionele eventverhuur en ondersteuning voor bruiloften, bedrijfsfeesten en particuliere evenementen.</p>",
+            "text": "<p>Professionele eventverhuur en ondersteuning voor bruiloften, bedrijfsfeesten en particuliere evenementen in de regio Westland.</p>",
             "width": "100%",
             "max_width": "none",
             "alignment": "center",
@@ -470,7 +387,7 @@
                 "text_4BRpjk": {
                   "type": "text",
                   "settings": {
-                    "text": "<h3>Eventverhuur</h3>",
+                    "text": "<h3>Eventverhuur in Westland</h3>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -637,7 +554,7 @@
                 "text_m8TAEz": {
                   "type": "text",
                   "settings": {
-                    "text": "<h3>Events op maat</h3>",
+                    "text": "<h3>Events op maat voor elke gelegenheid</h3>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -804,7 +721,7 @@
                 "text_Wq6B9m": {
                   "type": "text",
                   "settings": {
-                    "text": "<h3>Diensten</h3>",
+                    "text": "<h3>Eventdiensten &  ondersteuning</h3>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -910,7 +827,7 @@
         "overlay_color": "#edf2f7",
         "overlay_style": "gradient",
         "gradient_direction": "to top",
-        "padding-block-start": 48,
+        "padding-block-start": 0,
         "padding-block-end": 48
       }
     },
