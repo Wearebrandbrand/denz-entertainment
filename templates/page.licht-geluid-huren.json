@@ -63,7 +63,7 @@
         "text_EcqUcG": {
           "type": "text",
           "settings": {
-            "text": "<h1>Eventverhuur in Westland </h1>",
+            "text": "<h1>Licht en geluid huren in Westland</h1>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -114,7 +114,7 @@
         "text_PXYWUU": {
           "type": "text",
           "settings": {
-            "text": "<p>Huur professionele licht- en geluidsapparatuur, DJ-gear, totaalpakketten en techniek voor elk type event in Westland.</p><p>Met of zonder bezorging, opbouw en bediening.</p>",
+            "text": "<p>Professionele licht- en geluidsoplossingen voor elke ruimte en elk event. Huur losse sets of combineer ze met DJ-gear en bediening.</p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -129,8 +129,8 @@
             "background": false,
             "background_color": "#00000026",
             "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 32,
+            "padding-block-start": 20,
+            "padding-block-end": 20,
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
@@ -180,7 +180,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Bekijk onze pakketten",
+                "label": "Bekijk licht & geluid",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button",
@@ -259,7 +259,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Wat wil je huren voor jouw event?</h2>",
+            "text": "<h2>Kies wat je nodig hebt voor jouw event</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -361,7 +361,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Licht & Geluid huren</h3>",
+                "text": "<h3>Geluidsets</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -387,7 +387,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Kies uit speakersets, lichtsets, microfoons en complete geluidssystemen voor feesten, tuinevents en bedrijfsevents.</p>",
+                "text": "<p>Speakersets voor kleine en grote ruimtes. Inclusief standaards en kabels</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -402,8 +402,8 @@
                 "background": false,
                 "background_color": "#00000026",
                 "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
+                "padding-block-start": 20,
+                "padding-block-end": 20,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -413,7 +413,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Licht & Geluid huren",
+                "label": "Bekijk geluidsets",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
@@ -475,7 +475,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>DJ apparatuur huren</h3>",
+                "text": "<h3>Lichtsets</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -501,7 +501,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Van Pioneer DJ-sets tot mixers, DJ-booths en monitoren. Ideaal voor feestjes, bruiloften en professionele producties.</p>",
+                "text": "<p>Sfeerverlichting, dansvloerlichten en showverlichting.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -516,8 +516,8 @@
                 "background": false,
                 "background_color": "#00000026",
                 "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
+                "padding-block-start": 20,
+                "padding-block-end": 20,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -527,7 +527,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "DJ gear huren",
+                "label": "Bekijk lichtsets",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
@@ -589,7 +589,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Complete sets</h3>",
+                "text": "<h3>Microfoons & Mixers</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -615,7 +615,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Complete sets met licht, geluid en DJ-gear. Perfect voor thuisfeesten, verjaardagen en kleine eventlocaties.</p>",
+                "text": "<p>Draadloze microfoons, mengpanelen en aansluitmateriaal.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -630,8 +630,8 @@
                 "background": false,
                 "background_color": "#00000026",
                 "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
+                "padding-block-start": 20,
+                "padding-block-end": 20,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -641,7 +641,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Bekijk pakketten",
+                "label": "Bekijk Microfoons & Mixers",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
@@ -703,7 +703,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Extra's & accessoires</h3>",
+                "text": "<h3>Complete sets</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -729,7 +729,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Rookmachines, statieven, kabels, flightcases en aanvullende materialen voor uiteenlopende evenementen.</p>",
+                "text": "<p>Voorbeelden dienen als inspiratie en worden op maat samengesteld.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -744,8 +744,8 @@
                 "background": false,
                 "background_color": "#00000026",
                 "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
+                "padding-block-start": 20,
+                "padding-block-end": 20,
                 "padding-inline-start": 0,
                 "padding-inline-end": 0
               },
@@ -755,7 +755,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Bekijk extra's",
+                "label": "Bekijk complete sets",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
@@ -791,8 +791,8 @@
         "vertical_alignment_flex_direction_column": "center",
         "gap": 16,
         "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
+        "section_height": "custom",
+        "section_height_custom": 30,
         "color_scheme": "",
         "background_media": "none",
         "video_position": "cover",
@@ -816,7 +816,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Daarom kiezen Westlandse organisaties voor onze eventverhuur</h2>",
+            "text": "<h2>Waarom huren bij Denz Entertainment?</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -1344,8 +1344,8 @@
         "vertical_alignment_flex_direction_column": "center",
         "gap": 16,
         "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
+        "section_height": "custom",
+        "section_height_custom": 30,
         "color_scheme": "",
         "background_media": "none",
         "video_position": "cover",
@@ -1408,7 +1408,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Professionele licht- en geluidsapparatuur huren in Westland</h2>",
+                "text": "<p>Voorbeelden van licht- en geluidsets</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1433,7 +1433,7 @@
             "text_UcXmBm": {
               "type": "text",
               "settings": {
-                "text": "<ul><li>Speaker- en PA-sets voor binnen én buiten</li><li>Lichtsets voor sfeer, dansvloer of podia</li><li>Microfoons, mixers en complete geluidsinstallaties</li><li>DJ-gear (Pioneer, monitors, booth)</li><li>Complete sets voor snelle plug-and-play oplossingen</li></ul>",
+                "text": "<p><strong>Basis Geluidset</strong> – kleine feesten<br/><br/><strong>Dansvloer Lichtset</strong> – compacte lichtshow<br/><br/><strong>All-in Licht & Geluid Set</strong> – complete oplossing voor een event tot 500-600 man</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
@@ -1532,589 +1532,6 @@
         "padding-block-end": 40
       }
     },
-    "section_NzrxKX": {
-      "type": "section",
-      "blocks": {
-        "image_RywkfG": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Denz_entertainment_verhuur_westland.jpg",
-            "link": "",
-            "image_ratio": "square",
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 10,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "group_TTY8wB": {
-          "type": "group",
-          "settings": {
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 12,
-            "width": "custom",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "link": "",
-            "open_in_new_tab": false,
-            "placeholder": "",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_gar8Tz": {
-              "type": "text",
-              "name": "t:names.heading",
-              "settings": {
-                "text": "<h2>Complete verhuursets voor elk type evenement</h2>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "h2",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_ttxi69": {
-              "type": "text",
-              "settings": {
-                "text": "<p>Bekijk enkele voorbeelden van samengestelde sets voor 10 tot 300 personen. Deze dienen als inspiratie voor jouw event en worden altijd aangepast op basis van jouw locatie, wensen en aantal gasten.</p><h4><strong>Basis Set</strong></h4><p>Voor kleine feesten met speakers, standaards en eenvoudige lichtset.<br/><br/><em>Ideaal voor verjaardagen of tuinfeesten tot ± 40 personen.</em></p><h4><strong>Uitgebreide Set (Licht + Geluid)</strong></h4><p>Professionele licht- en geluidsoplossing voor middelgrote events.<br/><br/><em>Perfect voor bedrijfsfeesten of grotere ruimtes tot ± 100 personen.</em></p><h4><strong>Premium Event Set</strong></h4><p>Volledige set met lichtshow, krachtig geluid en DJ-gear.<br/><br/><em>Voor bruiloften en evenementen waar beleving centraal staat.</em></p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "custom",
-                "font": "var(--font-body--family)",
-                "font_size": "1.125rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "button_emhx6R": {
-              "type": "button",
-              "settings": {
-                "label": "Vraag prijs op voor jouw situatie",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_gar8Tz",
-            "text_ttxi69",
-            "button_emhx6R"
-          ]
-        }
-      },
-      "block_order": [
-        "image_RywkfG",
-        "group_TTY8wB"
-      ],
-      "name": "t:names.image_with_text",
-      "settings": {
-        "content_direction": "row",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 32,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 40,
-        "padding-block-end": 40
-      }
-    },
-    "section_rGQhwP": {
-      "type": "section",
-      "blocks": {
-        "group_EKT6L8": {
-          "type": "group",
-          "settings": {
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "center",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 16,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "link": "",
-            "open_in_new_tab": false,
-            "placeholder": "",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "icon_b3FWLh": {
-              "type": "icon",
-              "settings": {
-                "icon": "eye",
-                "image_upload": "shopify://shop_images/people-roof-solid-full.svg",
-                "width": 40,
-                "link": "",
-                "open_in_new_tab": false
-              },
-              "blocks": {}
-            },
-            "group_3Uw8if": {
-              "type": "group",
-              "settings": {
-                "content_direction": "column",
-                "vertical_on_mobile": true,
-                "horizontal_alignment": "flex-start",
-                "vertical_alignment": "center",
-                "align_baseline": false,
-                "horizontal_alignment_flex_direction_column": "flex-start",
-                "vertical_alignment_flex_direction_column": "center",
-                "gap": 4,
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "custom_height": 100,
-                "inherit_color_scheme": true,
-                "color_scheme": "",
-                "background_media": "none",
-                "video_position": "cover",
-                "background_image_position": "cover",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "toggle_overlay": false,
-                "overlay_color": "#00000026",
-                "overlay_style": "solid",
-                "gradient_direction": "to top",
-                "link": "",
-                "open_in_new_tab": false,
-                "placeholder": "",
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {
-                "text_p6kUyw": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<h2>Altijd de beste set voor jouw ruimte, aantal personen en budget</h2>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "center",
-                    "type_preset": "h3",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_p6kUyw"
-              ]
-            }
-          },
-          "block_order": [
-            "icon_b3FWLh",
-            "group_3Uw8if"
-          ]
-        },
-        "group_3XBTxT": {
-          "type": "group",
-          "settings": {
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "center",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 16,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "link": "",
-            "open_in_new_tab": false,
-            "placeholder": "",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "icon_7iPzJL": {
-              "type": "icon",
-              "settings": {
-                "icon": "heart",
-                "image_upload": "shopify://shop_images/headphones-solid-full_1.svg",
-                "width": 40,
-                "link": "",
-                "open_in_new_tab": false
-              },
-              "blocks": {}
-            },
-            "group_W4dcEL": {
-              "type": "group",
-              "settings": {
-                "content_direction": "column",
-                "vertical_on_mobile": true,
-                "horizontal_alignment": "flex-start",
-                "vertical_alignment": "center",
-                "align_baseline": false,
-                "horizontal_alignment_flex_direction_column": "flex-start",
-                "vertical_alignment_flex_direction_column": "center",
-                "gap": 4,
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "custom_height": 100,
-                "inherit_color_scheme": true,
-                "color_scheme": "",
-                "background_media": "none",
-                "video_position": "cover",
-                "background_image_position": "cover",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "toggle_overlay": false,
-                "overlay_color": "#00000026",
-                "overlay_style": "solid",
-                "gradient_direction": "to top",
-                "link": "",
-                "open_in_new_tab": false,
-                "placeholder": "",
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {
-                "text_6mDX8J": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<h2>Professionele techniek met optie voor opbouw en bedienign</h2>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "center",
-                    "type_preset": "h3",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_6mDX8J"
-              ]
-            }
-          },
-          "block_order": [
-            "icon_7iPzJL",
-            "group_W4dcEL"
-          ]
-        },
-        "group_6gFdTy": {
-          "type": "group",
-          "settings": {
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "center",
-            "vertical_alignment_flex_direction_column": "center",
-            "gap": 16,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "link": "",
-            "open_in_new_tab": false,
-            "placeholder": "",
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "icon_rCUaQN": {
-              "type": "icon",
-              "settings": {
-                "icon": "silhouette",
-                "image_upload": "shopify://shop_images/map-pin-solid-full.svg",
-                "width": 40,
-                "link": "",
-                "open_in_new_tab": false
-              },
-              "blocks": {}
-            },
-            "group_DpBj4z": {
-              "type": "group",
-              "settings": {
-                "content_direction": "column",
-                "vertical_on_mobile": true,
-                "horizontal_alignment": "flex-start",
-                "vertical_alignment": "center",
-                "align_baseline": false,
-                "horizontal_alignment_flex_direction_column": "flex-start",
-                "vertical_alignment_flex_direction_column": "center",
-                "gap": 4,
-                "width": "fill",
-                "custom_width": 100,
-                "width_mobile": "fill",
-                "custom_width_mobile": 100,
-                "height": "fit",
-                "custom_height": 100,
-                "inherit_color_scheme": true,
-                "color_scheme": "",
-                "background_media": "none",
-                "video_position": "cover",
-                "background_image_position": "cover",
-                "border": "none",
-                "border_width": 1,
-                "border_opacity": 100,
-                "border_radius": 0,
-                "toggle_overlay": false,
-                "overlay_color": "#00000026",
-                "overlay_style": "solid",
-                "gradient_direction": "to top",
-                "link": "",
-                "open_in_new_tab": false,
-                "placeholder": "",
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {
-                "text_iXwdmH": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<h2>Combinatie van DJ, techniek en eventservice op één plek in Westland</h2>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "center",
-                    "type_preset": "h3",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_iXwdmH"
-              ]
-            }
-          },
-          "block_order": [
-            "icon_rCUaQN",
-            "group_DpBj4z"
-          ]
-        }
-      },
-      "block_order": [
-        "group_EKT6L8",
-        "group_3XBTxT",
-        "group_6gFdTy"
-      ],
-      "name": "t:names.icons_with_text",
-      "settings": {
-        "content_direction": "row",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 16,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "scheme-6",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": true,
-        "overlay_color": "#cc0e18",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 48,
-        "padding-block-end": 48
-      }
-    },
     "section_hUVKFK": {
       "type": "section",
       "blocks": {
@@ -2203,7 +1620,7 @@
         "gap": 25,
         "section_width": "page-width",
         "section_height": "custom",
-        "section_height_custom": 30,
+        "section_height_custom": 40,
         "color_scheme": "",
         "background_media": "none",
         "video_position": "cover",
@@ -2738,8 +2155,6 @@
     "section_tqXAnN",
     "section_GhtkBQ",
     "section_Cjgp3K",
-    "section_NzrxKX",
-    "section_rGQhwP",
     "section_hUVKFK",
     "section_jTRgNG",
     "section_x4RR3B"
