@@ -63,7 +63,7 @@
         "text_EcqUcG": {
           "type": "text",
           "settings": {
-            "text": "<h1>Eventverhuur in Westland </h1>",
+            "text": "<h1>Feestverhuur in Westland </h1>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -89,7 +89,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>voor feesten, bedrijfsevents en bruiloften</h2>",
+            "text": "<h2>voor partijen, bedrijfsevents en bruiloften</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
