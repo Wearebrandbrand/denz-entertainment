@@ -89,11 +89,11 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>voor partijen, bedrijfsevents en bruiloften</h2>",
+            "text": "<h2>voor verjaardagen, bruiloften, tuinfeesten en huisfeesten</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "h3",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
@@ -114,7 +114,7 @@
         "text_PXYWUU": {
           "type": "text",
           "settings": {
-            "text": "<p>Huur professionele licht- en geluidsapparatuur, DJ-gear, totaalpakketten en techniek voor elk type event in Westland.</p><p>Met of zonder bezorging, opbouw en bediening.</p>",
+            "text": "<p>Maak jouw feest compleet met licht, geluid, DJ-gear en feestaccessoires. Voor kleine en middelgrote feesten in Westland.</p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -180,7 +180,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Bekijk onze pakketten",
+                "label": "Bekijk feestmaterialen",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button",
@@ -259,7 +259,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Wat wil je huren voor jouw event?</h2>",
+            "text": "<h2>Alles wat je nodig hebt voor een geslaagd feest</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -361,7 +361,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Licht & Geluid huren</h3>",
+                "text": "<h3>Geluid voor feesten</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -387,7 +387,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Kies uit speakersets, lichtsets, microfoons en complete geluidssystemen voor feesten, tuinevents en bedrijfsevents.</p>",
+                "text": "<p>Speakersets voor huisfeesten, tuinfeesten en kleine feestlocaties in Westland.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -475,7 +475,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>DJ apparatuur huren</h3>",
+                "text": "<p>Verlichting voor feesten</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -501,7 +501,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Van Pioneer DJ-sets tot mixers, DJ-booths en monitoren. Ideaal voor feestjes, bruiloften en professionele producties.</p>",
+                "text": "<p>Sfeerverlichting, dansvloerlichten en lichteffecten voor elk type feest of event.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -589,7 +589,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Complete sets</h3>",
+                "text": "<p>DJ-apparatuur voor feesten</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -615,7 +615,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Complete sets met licht, geluid en DJ-gear. Perfect voor thuisfeesten, verjaardagen en kleine eventlocaties.</p>",
+                "text": "<p>Pioneer DJ-sets, mixers en compacte DJ-opstellingen voor feestavonden.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -703,7 +703,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Extra's & accessoires</h3>",
+                "text": "<p>Accessoires voor feesten</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -729,7 +729,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Rookmachines, statieven, kabels, flightcases en aanvullende materialen voor uiteenlopende evenementen.</p>",
+                "text": "<p>Rookmachines, statieven, kabels en aanvullende materialen voor feesten.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -1408,7 +1408,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Professionele licht- en geluidsapparatuur huren in Westland</h2>",
+                "text": "<h2>Voorbeelden van feestsets ter inspiratie</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1433,7 +1433,7 @@
             "text_UcXmBm": {
               "type": "text",
               "settings": {
-                "text": "<ul><li>Speaker- en PA-sets voor binnen én buiten</li><li>Lichtsets voor sfeer, dansvloer of podia</li><li>Microfoons, mixers en complete geluidsinstallaties</li><li>DJ-gear (Pioneer, monitors, booth)</li><li>Complete sets voor snelle plug-and-play oplossingen</li></ul>",
+                "text": "<ul><li><strong>Huiskamerfeest set</strong><br/>Compact geluid + basisverlichting voor verjaardagen en kleine feestjes.</li><li><strong>Tuinfeest set<br/></strong>Sterke speakers + sfeerverlichting en optionele rookmachine.</li><li><strong>Bruiloftsfeest set<br/></strong>Premium lichtshow, krachtig geluid en DJ-gear.</li></ul>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
