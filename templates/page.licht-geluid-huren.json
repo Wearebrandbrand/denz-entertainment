@@ -361,7 +361,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Geluidsets</h3>",
+                "text": "<h3>Complete geluidsets</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -387,7 +387,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Speakersets voor kleine en grote ruimtes. Inclusief standaards en kabels</p>",
+                "text": "<p>Speakersets voor kleine en grote ruimtes. </p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -475,7 +475,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Lichtsets</h3>",
+                "text": "<h3>Complete lichtsets</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -703,7 +703,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Complete sets</h3>",
+                "text": "<h3>Complete feest sets</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
