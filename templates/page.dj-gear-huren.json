@@ -2347,7 +2347,7 @@
             "accordion_row_NbWgWP": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "Kunnen jullie de apparatuur bezorgen en opbouwen?",
+                "heading": "Is de DJ-apparatuur direct speelklaar?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2356,7 +2356,7 @@
                 "text_XYRGkN": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Ja, we leveren door heel Westland en omstreken en kunnen alles op locatie opbouwen, aansluiten en testen. </p>",
+                    "text": "<p>Ja. Alle apparatuur wordt getest en schoon geleverd, klaar voor gebruik.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2386,7 +2386,7 @@
             "accordion_row_MTYRJe": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "Kan ik de apparatuur zelf ophalen?",
+                "heading": "Kan ik DJ-gear combineren met licht en geluid?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2395,7 +2395,7 @@
                 "text_XmTBpf": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Dat kan. We helpen je met inladen en uitleg over bediening.</p>",
+                    "text": "<p>Ja, dit wordt vaak gedaan. We stemmen de set volledig op elkaar af.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2426,7 +2426,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Helpen jullie ook met bediening tijdens het event?",
+                "heading": "Is DJ-gear geschikt voor beginners?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2436,7 +2436,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Ja. Ervaren technici kunnen blijven voor geluid, licht, DJ-support of stagebeheer.</p>",
+                    "text": "<p>Zeker. We adviseren welke set het beste past bij jouw ervaring.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2467,7 +2467,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Wat als er iets stuk gaat?",
+                "heading": "Kan ik meerdere dagen huren?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2477,7 +2477,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>We werken met kwaliteitsmerken en leveren reservekabels en duidelijke begeleiding. Bij dringende problemen zijn we snel ter plaatse in Westland.</p>",
+                    "text": "<p>Ja, meerdaagse huur is mogelijk tegen een aangepast tarief.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
