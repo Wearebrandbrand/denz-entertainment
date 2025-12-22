@@ -63,7 +63,7 @@
         "text_EcqUcG": {
           "type": "text",
           "settings": {
-            "text": "<h1>Eventverhuur in Westland </h1>",
+            "text": "<h1>DJ-gear huren</h1>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -89,11 +89,11 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>voor feesten, bedrijfsevents en bruiloften</h2>",
+            "text": "<h2>professionele DJ-apparatuur voor feesten en events</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "h3",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
@@ -114,7 +114,7 @@
         "text_PXYWUU": {
           "type": "text",
           "settings": {
-            "text": "<p>Huur professionele licht- en geluidsapparatuur, DJ-gear, totaalpakketten en techniek voor elk type event in Westland.</p><p>Met of zonder bezorging, opbouw en bediening.</p>",
+            "text": "<p>Huur professionele DJ-gear zoals Pioneer DJ-sets, mixers, DJ-booths en monitors. </p><p>Geschikt voor feesten, bruiloften en events in Westland en omgeving.</p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -180,7 +180,7 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Bekijk onze pakketten",
+                "label": "Bekijk DJ-apparatuur",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button",
