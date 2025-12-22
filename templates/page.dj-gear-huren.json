@@ -259,11 +259,11 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Wat wil je huren voor jouw event?</h2>",
+            "text": "<h2>Professionele DJ-apparatuur voor elke setting</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "h2",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
@@ -361,7 +361,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Licht & Geluid huren</h3>",
+                "text": "<h3>DJ-spelers & controllers</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -387,7 +387,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Kies uit speakersets, lichtsets, microfoons en complete geluidssystemen voor feesten, tuinevents en bedrijfsevents.</p>",
+                "text": "<p>Pioneer CDJ- en XDJ-spelers en all-in-one controllers voor elke DJ-stijl.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -408,27 +408,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_GY3BYE": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Licht & Geluid huren",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_7fxyn6",
-            "text_7yW4zw",
-            "button_GY3BYE"
+            "text_7yW4zw"
           ]
         },
         "group_ndadHg": {
@@ -475,7 +459,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>DJ apparatuur huren</h3>",
+                "text": "<h3>DJ-mixers</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -501,7 +485,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Van Pioneer DJ-sets tot mixers, DJ-booths en monitoren. Ideaal voor feestjes, bruiloften en professionele producties.</p>",
+                "text": "<p>Betrouwbare mixers met meerdere kanalen voor soepel en stabiel mixen.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -522,27 +506,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_afTVjb": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "DJ gear huren",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_hmDjrQ",
-            "text_V436K8",
-            "button_afTVjb"
+            "text_V436K8"
           ]
         },
         "group_zBjrEy": {
@@ -589,7 +557,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Complete sets</h3>",
+                "text": "<h3>DJ-booths & stands</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -615,7 +583,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Complete sets met licht, geluid en DJ-gear. Perfect voor thuisfeesten, verjaardagen en kleine eventlocaties.</p>",
+                "text": "<p>Strakke DJ-booths en stabiele stands voor een nette opstelling.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -636,27 +604,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_Y4M4aK": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Bekijk pakketten",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_RMeeJT",
-            "text_aKA9td",
-            "button_Y4M4aK"
+            "text_aKA9td"
           ]
         },
         "group_EYAC7c": {
@@ -703,7 +655,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Extra's & accessoires</h3>",
+                "text": "<p>DJ-monitors & accessoires</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -729,7 +681,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Rookmachines, statieven, kabels, flightcases en aanvullende materialen voor uiteenlopende evenementen.</p>",
+                "text": "<p>Monitorluidsprekers, bekabeling en accessoires voor optimale controle.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -750,27 +702,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_BYqLFB": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Bekijk extra's",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_XwWp3k",
-            "text_CYNwnF",
-            "button_BYqLFB"
+            "text_CYNwnF"
           ]
         }
       },
