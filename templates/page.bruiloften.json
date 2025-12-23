@@ -63,7 +63,7 @@
         "text_EcqUcG": {
           "type": "text",
           "settings": {
-            "text": "<h1>Eventverhuur in Westland </h1>",
+            "text": "<h1>Bruiloften op maat</h1>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -89,7 +89,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>voor feesten, bedrijfsevents en bruiloften</h2>",
+            "text": "<h2>Muziek, techniek en begeleiding voor jullie trouwdag</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -114,7 +114,7 @@
         "text_PXYWUU": {
           "type": "text",
           "settings": {
-            "text": "<p>Huur professionele licht- en geluidsapparatuur, DJ-gear, totaalpakketten en techniek voor elk type event in Westland.</p><p>Met of zonder bezorging, opbouw en bediening.</p>",
+            "text": "<p>Jullie trouwdag vraagt om aandacht en afstemming. </p><p>Wij verzorgen muziek, licht en technische begeleiding voor bruiloften in Westland en omgeving, volledig afgestemd op jullie wensen en planning.</p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -180,8 +180,8 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Bekijk onze pakketten",
-                "link": "shopify://collections/all",
+                "label": "Plan een kennismaking",
+                "link": "shopify://pages/contact",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -195,8 +195,8 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Vraag  een offerte aan",
-                "link": "shopify://collections/all",
+                "label": "Laat je adviseren",
+                "link": "shopify://pages/contact",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -259,7 +259,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Wat wil je huren voor jouw event?</h2>",
+            "text": "<h2>Persoonlijke begeleiding voor bruiloften op maat</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -280,10 +280,37 @@
             "padding-inline-end": 0
           },
           "blocks": {}
+        },
+        "text_WQeFFc": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<p>Geen enkele bruiloft is hetzelfde. Daarom werken wij niet met standaard draaiboeken of vaste pakketten. We luisteren naar jullie ideeën, denken mee over de invulling en zorgen dat muziek, techniek en sfeer perfect aansluiten bij elk moment van de dag.</p>",
+            "width": "fit-content",
+            "max_width": "none",
+            "alignment": "left",
+            "type_preset": "custom",
+            "font": "var(--font-body--family)",
+            "font_size": "1.5rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "text_XXBttK"
+        "text_XXBttK",
+        "text_WQeFFc"
       ],
       "name": "t:names.rich_text_section",
       "settings": {
@@ -317,119 +344,31 @@
     "section_YGk7LC": {
       "type": "section",
       "blocks": {
-        "group_ijcWY9": {
-          "type": "group",
-          "name": "t:names.column",
+        "text_GwpW8D": {
+          "type": "text",
+          "name": "t:names.heading",
           "settings": {
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "center",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 8,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "link": "",
-            "open_in_new_tab": false,
-            "placeholder": "",
-            "padding-block-start": 10,
+            "text": "<h2>Begeleiding voor elk moment van jullie bruiloft</h2>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
             "padding-block-end": 0,
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
-          "blocks": {
-            "text_7fxyn6": {
-              "type": "text",
-              "name": "t:names.heading",
-              "settings": {
-                "text": "<h3>Licht & Geluid huren</h3>",
-                "width": "100%",
-                "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "h3",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_7yW4zw": {
-              "type": "text",
-              "name": "t:names.description",
-              "settings": {
-                "text": "<p>Kies uit speakersets, lichtsets, microfoons en complete geluidssystemen voor feesten, tuinevents en bedrijfsevents.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "button_GY3BYE": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Licht & Geluid huren",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_7fxyn6",
-            "text_7yW4zw",
-            "button_GY3BYE"
-          ]
+          "blocks": {}
         },
         "group_ndadHg": {
           "type": "group",
@@ -775,7 +714,7 @@
         }
       },
       "block_order": [
-        "group_ijcWY9",
+        "text_GwpW8D",
         "group_ndadHg",
         "group_zBjrEy",
         "group_EYAC7c"
