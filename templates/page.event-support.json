@@ -63,7 +63,7 @@
         "text_EcqUcG": {
           "type": "text",
           "settings": {
-            "text": "<h1>Eventverhuur in Westland </h1>",
+            "text": "<h1>Event support voor feesten en events</h1>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -89,11 +89,11 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>voor feesten, bedrijfsevents en bruiloften</h2>",
+            "text": "<h2>Praktische ondersteuning tijdens voorbereiding en uitvoering</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "h3",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
@@ -114,7 +114,7 @@
         "text_PXYWUU": {
           "type": "text",
           "settings": {
-            "text": "<p>Huur professionele licht- en geluidsapparatuur, DJ-gear, totaalpakketten en techniek voor elk type event in Westland.</p><p>Met of zonder bezorging, opbouw en bediening.</p>",
+            "text": "<p>Wij verzorgen event support voor feesten en events in Westland en omgeving. </p><p>Deze dienst richt zich op praktische ondersteuning achter de schermen, zodat de uitvoering soepel verloopt en betrokkenen worden ontlast.</p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -180,8 +180,8 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Bekijk onze pakketten",
-                "link": "shopify://collections/all",
+                "label": "Plan een kennismaking",
+                "link": "shopify://pages/contact",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -195,8 +195,8 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Vraag  een offerte aan",
-                "link": "shopify://collections/all",
+                "label": "Laat je adviseren",
+                "link": "shopify://pages/contact",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
