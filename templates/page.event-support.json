@@ -3143,7 +3143,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Klaar voor een voorstel op maat?</h2>",
+            "text": "<h2>Praktische ondersteuning nodig tijdens jouw event?</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -3169,13 +3169,13 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Vertel ons het type event, het aantal personen en de locatie. Wij adviseren direct welke set het beste past, inclusief opbouw en bediening indien gewenst.</p>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "rte",
+            "text": "<p>Vertel ons wat voor event je organiseert en waar ondersteuning nodig is. Wij denken graag met je mee.</p>",
+            "width": "100%",
+            "max_width": "none",
+            "alignment": "center",
+            "type_preset": "custom",
             "font": "var(--font-body--family)",
-            "font_size": "1rem",
+            "font_size": "1.125rem",
             "line_height": "normal",
             "letter_spacing": "normal",
             "case": "none",
@@ -3195,8 +3195,8 @@
           "type": "button",
           "name": "t:names.button",
           "settings": {
-            "label": "Vraag nu een offerte aan",
-            "link": "shopify://collections/all",
+            "label": "Plan een kennismaking",
+            "link": "shopify://pages/contact",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "fit-content",
@@ -3248,7 +3248,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h3>Veelgestelde vragen over eventverhuur in  Westland</h3>",
+            "text": "<h3>Veelgestelde vragen over event support</h3>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -3292,7 +3292,7 @@
             "accordion_row_NbWgWP": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "Kunnen jullie de apparatuur bezorgen en opbouwen?",
+                "heading": "Is event support hetzelfde als eventservice?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3301,7 +3301,7 @@
                 "text_XYRGkN": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Ja, we leveren door heel Westland en omstreken en kunnen alles op locatie opbouwen, aansluiten en testen. </p>",
+                    "text": "<p>Nee, event support richt zich op praktische taken, eventservice op coördinatie.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -3328,132 +3328,11 @@
                 "text_XYRGkN"
               ]
             },
-            "accordion_row_MTYRJe": {
-              "type": "_accordion-row",
-              "settings": {
-                "heading": "Kan ik de apparatuur zelf ophalen?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_XmTBpf": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>Dat kan. We helpen je met inladen en uitleg over bediening.</p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_XmTBpf"
-              ]
-            },
-            "accordion_row_ipDttb": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Helpen jullie ook met bediening tijdens het event?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_Rq3tHn": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>Ja. Ervaren technici kunnen blijven voor geluid, licht, DJ-support of stagebeheer.</p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_Rq3tHn"
-              ]
-            },
-            "accordion_row_UwJMkA": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Wat als er iets stuk gaat?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_DVCxqz": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>We werken met kwaliteitsmerken en leveren reservekabels en duidelijke begeleiding. Bij dringende problemen zijn we snel ter plaatse in Westland.</p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_DVCxqz"
-              ]
-            },
             "accordion_row_yiif8E": {
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Kunnen jullie me adviseren welke set ik nodig heb?",
+                "heading": "Kan event support los worden ingezet?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3463,7 +3342,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Ja. Op basis van jouw locatie, het type event en het aantal gasten stellen we altijd een passende set voor. We kijken naar ruimteakoestiek, benodigde geluidssterkte en welke lichtoplossingen het beste werken voor jouw situatie.</p>",
+                    "text": "<p>Ja, deze dienst is zelfstandig inzetbaar.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -3494,7 +3373,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Is het mogelijk om apparatuur meerdere dagen te huren?",
+                "heading": "Is event support ook geschikt voor kleinere events?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3504,7 +3383,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Ja, dat kan. Voor meerdaagse evenementen of opbouwdagen rekenen we een aangepast tarief. Geef het aantal dagen door in de offerteaanvraag, dan nemen we dit direct mee in de prijs.</p>",
+                    "text": "<p>Ja, ondersteuning is mogelijk bij kleine en grotere events.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -3535,7 +3414,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Hoe werkt het ophalen of bezorgen van apparatuur?",
+                "heading": "Zijn jullie zichtbaar voor gasten?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3544,7 +3423,7 @@
                 "text_DiE3pk": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Je kunt de apparatuur zelf ophalen of door ons laten bezorgen in Westland en omgeving. Bij bezorging kunnen we de set indien gewenst ook opbouwen, afstellen en na het event weer ophalen.</p>",
+                    "text": "<p>Nee, event support werkt zoveel mogelijk op de achtergrond.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -3575,7 +3454,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Kunnen jullie tijdens het event ook ondersteuning bieden?",
+                "heading": "In welke regio leveren jullie event support?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3584,7 +3463,7 @@
                 "text_fkqtXp": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Zeker. Onze technici kunnen aanwezig zijn voor licht- en geluidsbediening, DJ-support of backstage werkzaamheden. Dit is vooral handig bij bedrijfsevents, grotere feesten of bruiloften.</p>",
+                    "text": "<p>Wij werken voornamelijk in Westland, Den Haag en omgeving.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -3614,9 +3493,6 @@
           },
           "block_order": [
             "accordion_row_NbWgWP",
-            "accordion_row_MTYRJe",
-            "accordion_row_ipDttb",
-            "accordion_row_UwJMkA",
             "accordion_row_yiif8E",
             "accordion_row_WpKrGc",
             "accordion_row_Nwc43G",
