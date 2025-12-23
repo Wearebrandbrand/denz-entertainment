@@ -711,7 +711,7 @@
         "overlay_style": "solid",
         "gradient_direction": "to top",
         "padding-block-start": 48,
-        "padding-block-end": 48
+        "padding-block-end": 24
       }
     },
     "section_tFgNPG": {
@@ -726,7 +726,7 @@
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "center",
             "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
+            "horizontal_alignment_flex_direction_column": "center",
             "vertical_alignment_flex_direction_column": "flex-start",
             "gap": 8,
             "width": "fill",
@@ -743,29 +743,29 @@
             "border": "none",
             "border_width": 1,
             "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
+            "border_radius": 10,
+            "toggle_overlay": true,
+            "overlay_color": "#edf2f7",
             "overlay_style": "solid",
             "gradient_direction": "to top",
             "link": "",
             "open_in_new_tab": false,
             "placeholder": "",
-            "padding-block-start": 10,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
+            "padding-block-start": 20,
+            "padding-block-end": 20,
+            "padding-inline-start": 20,
+            "padding-inline-end": 20
           },
           "blocks": {
             "text_67tnQk": {
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Quality first</h2>",
+                "text": "<h2>Muziekverzorging voor events</h2>",
                 "width": "100%",
                 "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "h4",
+                "alignment": "left",
+                "type_preset": "h3",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
                 "line_height": "normal",
@@ -787,11 +787,37 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>We obsess over the details and strive to deliver the best products at the best prices, every time.</p>",
+                "text": "<p>Muziekverzorging bepaalt de sfeer van een event. Wij verzorgen in overeenstemming met de klant muziek die aansluit bij het moment, het publiek en het verloop van de dag of avond. </p>",
+                "width": "100%",
+                "max_width": "none",
+                "alignment": "left",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1.125rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_bgRip7": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h3>Wat valt er onder muziekverzorging</h3>",
                 "width": "100%",
                 "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "rte",
+                "alignment": "left",
+                "type_preset": "h4",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
                 "line_height": "normal",
@@ -808,11 +834,55 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "text_xAiBAr": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<ul><li>Muziekadvies en afstemming vooraf</li><li>DJ-inzet voor feesten en events</li><li>Afstemming van muziek per onderdeel</li><li>Flexibel inspelen op het verloop van het event</li></ul>",
+                "width": "100%",
+                "max_width": "none",
+                "alignment": "left",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1.125rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "button_m7GLJg": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Bekijk deze dienst",
+                "link": "shopify://pages/muziekverzorging",
+                "open_in_new_tab": false,
+                "style_class": "button-secondary",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "text_67tnQk",
-            "text_VpEwqf"
+            "text_VpEwqf",
+            "text_bgRip7",
+            "text_xAiBAr",
+            "button_m7GLJg"
           ]
         },
         "group_L8XpF9": {
@@ -824,7 +894,7 @@
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "center",
             "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
+            "horizontal_alignment_flex_direction_column": "center",
             "vertical_alignment_flex_direction_column": "flex-start",
             "gap": 8,
             "width": "fill",
@@ -841,29 +911,29 @@
             "border": "none",
             "border_width": 1,
             "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
+            "border_radius": 10,
+            "toggle_overlay": true,
+            "overlay_color": "#edf2f7",
             "overlay_style": "solid",
             "gradient_direction": "to top",
             "link": "",
             "open_in_new_tab": false,
             "placeholder": "",
-            "padding-block-start": 10,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
+            "padding-block-start": 20,
+            "padding-block-end": 20,
+            "padding-inline-start": 20,
+            "padding-inline-end": 20
           },
           "blocks": {
             "text_JJnytb": {
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Customer care</h2>",
+                "text": "<h2>Event support en ondersteuning op locatie</h2>",
                 "width": "100%",
                 "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "h4",
+                "alignment": "left",
+                "type_preset": "h3",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
                 "line_height": "normal",
@@ -885,11 +955,37 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>We're always on your side: keeping our loyal customers happy is our top priority and number one goal.</p>",
+                "text": "<p>Event support is de ondersteunende rol achter de schermen. Wij zorgen dat praktische taken worden opgepakt zodat het event zonder onderbrekingen verloopt.</p>",
+                "width": "100%",
+                "max_width": "none",
+                "alignment": "left",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1.125rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_64M4pz": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h3>Wat valt er onder event support</h3>",
                 "width": "100%",
                 "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "rte",
+                "alignment": "left",
+                "type_preset": "h4",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
                 "line_height": "normal",
@@ -906,11 +1002,55 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "text_9VeFEQ": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<ul><li>Ondersteuning bij op- en afbouw</li><li>Praktische hulp op locatie</li><li>Backstage ondersteuning</li><li>Aanwezigheid als aanspreekpunt</li></ul>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "custom",
+                "font": "var(--font-body--family)",
+                "font_size": "1.125rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "color": "var(--color-foreground)",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "button_3jiYTH": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Bekijk deze dienst",
+                "link": "shopify://pages/event-support",
+                "open_in_new_tab": false,
+                "style_class": "button-secondary",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "text_JJnytb",
-            "text_Rwhx8p"
+            "text_Rwhx8p",
+            "text_64M4pz",
+            "text_9VeFEQ",
+            "button_3jiYTH"
           ]
         }
       },
@@ -943,7 +1083,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
-        "padding-block-start": 48,
+        "padding-block-start": 24,
         "padding-block-end": 48
       }
     },
@@ -1546,7 +1686,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Professionele licht- en geluidsapparatuur huren in Westland</h2>",
+                "text": "<h2>Wanneer worden onze eventdiensten ingezet?</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1571,7 +1711,7 @@
             "text_UcXmBm": {
               "type": "text",
               "settings": {
-                "text": "<ul><li>Speaker- en PA-sets voor binnen én buiten</li><li>Lichtsets voor sfeer, dansvloer of podia</li><li>Microfoons, mixers en complete geluidsinstallaties</li><li>DJ-gear (Pioneer, monitors, booth)</li><li>Complete sets voor snelle plug-and-play oplossingen</li></ul>",
+                "text": "<ul><li>Bruiloften</li><li>Bedrijfsfeesten</li><li>Particuliere events</li><li>Events op locatie</li><li>Feesten met technische of organisatorische ondersteuning</li></ul>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
@@ -1596,8 +1736,8 @@
             "button_thBNTb": {
               "type": "button",
               "settings": {
-                "label": "Bekijk alle apparatuur",
-                "link": "shopify://collections/all",
+                "label": "Bekijk alle diensten",
+                "link": "shopify://pages/events-op-maat",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
                 "width": "fit-content",
