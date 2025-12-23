@@ -2456,8 +2456,7 @@
             "icon_b3FWLh": {
               "type": "icon",
               "settings": {
-                "icon": "eye",
-                "image_upload": "shopify://shop_images/people-roof-solid-full.svg",
+                "icon": "chat_bubble",
                 "width": 40,
                 "link": "",
                 "open_in_new_tab": false
@@ -2506,7 +2505,7 @@
                 "text_p6kUyw": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Altijd de beste set voor jouw ruimte, aantal personen en budget</h2>",
+                    "text": "<h3>Eén aanspreekpunt voor uitvoering en techniek</h3>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -2527,10 +2526,37 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {}
+                },
+                "text_DCQpK6": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Heldere communicatie en korte lijnen tijdens voorbereiding en uitvoering van het event.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "center",
+                    "type_preset": "custom",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1.125rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
                 }
               },
               "block_order": [
-                "text_p6kUyw"
+                "text_p6kUyw",
+                "text_DCQpK6"
               ]
             }
           },
@@ -2582,7 +2608,7 @@
               "type": "icon",
               "settings": {
                 "icon": "heart",
-                "image_upload": "shopify://shop_images/headphones-solid-full_1.svg",
+                "image_upload": "shopify://shop_images/star-solid-full_1.svg",
                 "width": 40,
                 "link": "",
                 "open_in_new_tab": false
@@ -2631,7 +2657,7 @@
                 "text_6mDX8J": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Professionele techniek met optie voor opbouw en bedienign</h2>",
+                    "text": "<h2>Ervaring met uiteenlopende events en locaties</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -2652,10 +2678,37 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {}
+                },
+                "text_cHJqtD": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Praktische kennis van bruiloften, bedrijfsfeesten en particuliere events.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "center",
+                    "type_preset": "custom",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1.125rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
                 }
               },
               "block_order": [
-                "text_6mDX8J"
+                "text_6mDX8J",
+                "text_cHJqtD"
               ]
             }
           },
@@ -2756,7 +2809,7 @@
                 "text_iXwdmH": {
                   "type": "text",
                   "settings": {
-                    "text": "<h2>Combinatie van DJ, techniek en eventservice op één plek in Westland</h2>",
+                    "text": "<h2>Betrouwbare ondersteuning op locatie</h2>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "center",
@@ -2777,10 +2830,37 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {}
+                },
+                "text_DaFJnX": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Rustige aanwezigheid, technisch overzicht en flexibel inspelen op situaties.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "center",
+                    "type_preset": "custom",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1.125rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "color": "var(--color-foreground)",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
                 }
               },
               "block_order": [
-                "text_iXwdmH"
+                "text_iXwdmH",
+                "text_DaFJnX"
               ]
             }
           },
