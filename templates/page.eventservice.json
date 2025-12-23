@@ -1586,18 +1586,18 @@
             "border": "none",
             "border_width": 1,
             "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
+            "border_radius": 10,
+            "toggle_overlay": true,
             "overlay_color": "#00000026",
             "overlay_style": "solid",
             "gradient_direction": "to top",
             "link": "",
             "open_in_new_tab": false,
             "placeholder": "",
-            "padding-block-start": 10,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
+            "padding-block-start": 20,
+            "padding-block-end": 20,
+            "padding-inline-start": 20,
+            "padding-inline-end": 20
           },
           "blocks": {
             "text_eCBfpP": {
@@ -1836,18 +1836,18 @@
             "border": "none",
             "border_width": 1,
             "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
+            "border_radius": 10,
+            "toggle_overlay": true,
             "overlay_color": "#00000026",
             "overlay_style": "solid",
             "gradient_direction": "to top",
             "link": "",
             "open_in_new_tab": false,
             "placeholder": "",
-            "padding-block-start": 10,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
+            "padding-block-start": 20,
+            "padding-block-end": 20,
+            "padding-inline-start": 20,
+            "padding-inline-end": 20
           },
           "blocks": {
             "text_YUwzNT": {
