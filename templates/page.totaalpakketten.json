@@ -414,7 +414,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Kies uit speakersets, lichtsets, microfoons en complete geluidssystemen voor feesten, tuinevents en bedrijfsevents.</p>",
+                "text": "<p>Compacte sets met geluid en verlichting voor feestjes thuis.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -435,27 +435,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_GY3BYE": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Licht & Geluid huren",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_7fxyn6",
-            "text_7yW4zw",
-            "button_GY3BYE"
+            "text_7yW4zw"
           ]
         },
         "group_ndadHg": {
@@ -528,7 +512,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Van Pioneer DJ-sets tot mixers, DJ-booths en monitoren. Ideaal voor feestjes, bruiloften en professionele producties.</p>",
+                "text": "<p>Krachtigere installaties geschikt voor buiten en grotere ruimtes.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -549,27 +533,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_afTVjb": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "DJ gear huren",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_hmDjrQ",
-            "text_V436K8",
-            "button_afTVjb"
+            "text_V436K8"
           ]
         },
         "group_zBjrEy": {
@@ -642,7 +610,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Complete sets met licht, geluid en DJ-gear. Perfect voor thuisfeesten, verjaardagen en kleine eventlocaties.</p>",
+                "text": "<p>Sfeervolle licht- en geluidsopstellingen voor een complete beleving.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -663,27 +631,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_Y4M4aK": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Bekijk pakketten",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_RMeeJT",
-            "text_aKA9td",
-            "button_Y4M4aK"
+            "text_aKA9td"
           ]
         },
         "group_EYAC7c": {
@@ -756,7 +708,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Rookmachines, statieven, kabels, flightcases en aanvullende materialen voor uiteenlopende evenementen.</p>",
+                "text": "<p>Professionele oplossingen voor informele zakelijke events.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -777,27 +729,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_BYqLFB": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Bekijk extra's",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_XwWp3k",
-            "text_CYNwnF",
-            "button_BYqLFB"
+            "text_CYNwnF"
           ]
         },
         "group_TB76AA": {
@@ -809,7 +745,7 @@
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "center",
             "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "flex-start",
+            "horizontal_alignment_flex_direction_column": "center",
             "vertical_alignment_flex_direction_column": "center",
             "gap": 12,
             "width": "fill",
@@ -844,7 +780,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Privé-events met DJ of eigen muziek</h3>",
+                "text": "<h3>Privé-events met DJ</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -870,7 +806,7 @@
               "type": "product-description",
               "name": "t:names.product_description",
               "settings": {
-                "text": "<p>{{ closest.product.description }}</p>",
+                "text": "<p>Flexibele sets afgestemd op DJ-gear of afspeellijsten.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -933,6 +869,57 @@
         "gradient_direction": "to top",
         "padding-block-start": 48,
         "padding-block-end": 48
+      }
+    },
+    "section_6Dj9xH": {
+      "type": "section",
+      "blocks": {
+        "button_PNEyKz": {
+          "type": "button",
+          "name": "t:names.button",
+          "settings": {
+            "label": "Neem direct contact op",
+            "link": "shopify://pages/contact",
+            "open_in_new_tab": false,
+            "style_class": "button",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "button_PNEyKz"
+      ],
+      "name": "t:names.rich_text_section",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 25,
+        "section_width": "page-width",
+        "section_height": "custom",
+        "section_height_custom": 0,
+        "color_scheme": "",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 30,
+        "padding-block-end": 90
       }
     },
     "section_tqXAnN": {
@@ -1534,7 +1521,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Professionele licht- en geluidsapparatuur huren in Westland</h2>",
+                "text": "<p>Zorgeloos feesten met één aanspreekpunt</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1559,7 +1546,7 @@
             "text_UcXmBm": {
               "type": "text",
               "settings": {
-                "text": "<ul><li>Speaker- en PA-sets voor binnen én buiten</li><li>Lichtsets voor sfeer, dansvloer of podia</li><li>Microfoons, mixers en complete geluidsinstallaties</li><li>DJ-gear (Pioneer, monitors, booth)</li><li>Complete sets voor snelle plug-and-play oplossingen</li></ul>",
+                "text": "<ul><li>Alles perfect op elkaar afgestemd</li><li>Geen losse keuzes of technische twijfels</li><li>Professionele kwaliteit apparatuur</li><li>Advies op maat voor jouw locatie</li><li>Snelle service in Westland en omgeving</li></ul>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
@@ -1584,8 +1571,8 @@
             "button_thBNTb": {
               "type": "button",
               "settings": {
-                "label": "Bekijk alle apparatuur",
-                "link": "shopify://collections/all",
+                "label": "Bekijk al onze verhursets",
+                "link": "shopify://pages/totaalpakketten",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
                 "width": "fit-content",
@@ -1726,7 +1713,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Complete verhuursets voor elk type evenement</h2>",
+                "text": "<p>Zo stellen we jouw totaalpakket samen</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1751,13 +1738,13 @@
             "text_ttxi69": {
               "type": "text",
               "settings": {
-                "text": "<p>Bekijk enkele voorbeelden van samengestelde sets voor 10 tot 300 personen. Deze dienen als inspiratie voor jouw event en worden altijd aangepast op basis van jouw locatie, wensen en aantal gasten.</p><h4><strong>Basis Set</strong></h4><p>Voor kleine feesten met speakers, standaards en eenvoudige lichtset.<br/><br/><em>Ideaal voor verjaardagen of tuinfeesten tot ± 40 personen.</em></p><h4><strong>Uitgebreide Set (Licht + Geluid)</strong></h4><p>Professionele licht- en geluidsoplossing voor middelgrote events.<br/><br/><em>Perfect voor bedrijfsfeesten of grotere ruimtes tot ± 100 personen.</em></p><h4><strong>Premium Event Set</strong></h4><p>Volledige set met lichtshow, krachtig geluid en DJ-gear.<br/><br/><em>Voor bruiloften en evenementen waar beleving centraal staat.</em></p>",
+                "text": "<ol><li>Jij vertelt wat voor feest je organiseert</li><li>We bespreken locatie en aantal gasten</li><li>We adviseren een passende combinatie</li><li>Je ontvangt een duidelijke offerte</li><li>Levering, opbouw en uitleg indien gewenst</li></ol>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
                 "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1.125rem",
+                "font_size": "1.5rem",
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
@@ -1776,7 +1763,7 @@
             "button_emhx6R": {
               "type": "button",
               "settings": {
-                "label": "Vraag prijs op voor jouw situatie",
+                "label": "Vraag een offerte aan",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
@@ -2397,7 +2384,7 @@
             "accordion_row_NbWgWP": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "Kunnen jullie de apparatuur bezorgen en opbouwen?",
+                "heading": "Zijn de totaalpakketten vaste pakketten?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2406,7 +2393,7 @@
                 "text_XYRGkN": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Ja, we leveren door heel Westland en omstreken en kunnen alles op locatie opbouwen, aansluiten en testen. </p>",
+                    "text": "<p>Nee. Ze dienen als voorbeeld en worden altijd aangepast aan jouw situatie.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2436,7 +2423,7 @@
             "accordion_row_MTYRJe": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "Kan ik de apparatuur zelf ophalen?",
+                "heading": "Kan ik onderdelen toevoegen of weglaten?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2445,7 +2432,7 @@
                 "text_XmTBpf": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Dat kan. We helpen je met inladen en uitleg over bediening.</p>",
+                    "text": "<p>Ja. Elk totaalpakket is flexibel samen te stellen.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2476,7 +2463,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Helpen jullie ook met bediening tijdens het event?",
+                "heading": "Is een DJ inbegrepen bij een totaalpakket?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2486,7 +2473,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Ja. Ervaren technici kunnen blijven voor geluid, licht, DJ-support of stagebeheer.</p>",
+                    "text": "<p>Dat kan, maar is niet standaard. We stemmen dit af in de offerte.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2517,7 +2504,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Wat als er iets stuk gaat?",
+                "heading": "Voor hoeveel personen zijn de pakketten geschikt?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2527,7 +2514,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>We werken met kwaliteitsmerken en leveren reservekabels en duidelijke begeleiding. Bij dringende problemen zijn we snel ter plaatse in Westland.</p>",
+                    "text": "<p>We stellen pakketten samen voor feesten tot 500 personen.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2558,7 +2545,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Kunnen jullie me adviseren welke set ik nodig heb?",
+                "heading": "Kunnen jullie ook opbouwen en aansluiten?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -2568,7 +2555,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Ja. Op basis van jouw locatie, het type event en het aantal gasten stellen we altijd een passende set voor. We kijken naar ruimteakoestiek, benodigde geluidssterkte en welke lichtoplossingen het beste werken voor jouw situatie.</p>",
+                    "text": "<p>Ja, bezorging en opbouw zijn optioneel mogelijk.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -2594,127 +2581,6 @@
               "block_order": [
                 "text_pDRBpF"
               ]
-            },
-            "accordion_row_WpKrGc": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Is het mogelijk om apparatuur meerdere dagen te huren?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_RGDiEX": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>Ja, dat kan. Voor meerdaagse evenementen of opbouwdagen rekenen we een aangepast tarief. Geef het aantal dagen door in de offerteaanvraag, dan nemen we dit direct mee in de prijs.</p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_RGDiEX"
-              ]
-            },
-            "accordion_row_Nwc43G": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Hoe werkt het ophalen of bezorgen van apparatuur?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_DiE3pk": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>Je kunt de apparatuur zelf ophalen of door ons laten bezorgen in Westland en omgeving. Bij bezorging kunnen we de set indien gewenst ook opbouwen, afstellen en na het event weer ophalen.</p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_DiE3pk"
-              ]
-            },
-            "accordion_row_yTqDEa": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Kunnen jullie tijdens het event ook ondersteuning bieden?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_fkqtXp": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>Zeker. Onze technici kunnen aanwezig zijn voor licht- en geluidsbediening, DJ-support of backstage werkzaamheden. Dit is vooral handig bij bedrijfsevents, grotere feesten of bruiloften.</p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_fkqtXp"
-              ]
             }
           },
           "block_order": [
@@ -2722,10 +2588,7 @@
             "accordion_row_MTYRJe",
             "accordion_row_ipDttb",
             "accordion_row_UwJMkA",
-            "accordion_row_yiif8E",
-            "accordion_row_WpKrGc",
-            "accordion_row_Nwc43G",
-            "accordion_row_yTqDEa"
+            "accordion_row_yiif8E"
           ]
         }
       },
@@ -2861,6 +2724,7 @@
     "hero_MFpD7q",
     "section_c3qkaK",
     "section_YGk7LC",
+    "section_6Dj9xH",
     "section_tqXAnN",
     "section_GhtkBQ",
     "section_Cjgp3K",
