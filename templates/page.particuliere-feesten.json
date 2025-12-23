@@ -63,7 +63,7 @@
         "text_EcqUcG": {
           "type": "text",
           "settings": {
-            "text": "<h1>Eventverhuur in Westland </h1>",
+            "text": "<h1>Particuliere events op maat</h1>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -89,7 +89,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>voor feesten, bedrijfsevents en bruiloften</h2>",
+            "text": "<h2>begeleiding, muziek en techniek voor privéfeesten</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -114,7 +114,7 @@
         "text_PXYWUU": {
           "type": "text",
           "settings": {
-            "text": "<p>Huur professionele licht- en geluidsapparatuur, DJ-gear, totaalpakketten en techniek voor elk type event in Westland.</p><p>Met of zonder bezorging, opbouw en bediening.</p>",
+            "text": "<p>Wij verzorgen particuliere events op maat voor klanten in Westland en omgeving. </p><p>Van verjaardagen en tuinfeesten tot privé-events op locatie. </p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -180,8 +180,8 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Bekijk onze pakketten",
-                "link": "shopify://collections/all",
+                "label": "Plan een kennismaking",
+                "link": "shopify://pages/contact",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
@@ -195,8 +195,8 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Vraag  een offerte aan",
-                "link": "shopify://collections/all",
+                "label": "Laat je adviseren",
+                "link": "shopify://pages/contact",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
