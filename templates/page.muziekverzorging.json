@@ -2674,8 +2674,8 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
-        "padding-block-start": 48,
-        "padding-block-end": 48
+        "padding-block-start": 96,
+        "padding-block-end": 0
       }
     },
     "section_AwPi9A": {
@@ -3033,7 +3033,7 @@
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
-        "padding-block-start": 48,
+        "padding-block-start": 24,
         "padding-block-end": 48
       }
     },
@@ -3044,7 +3044,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Klaar voor een voorstel op maat?</h2>",
+            "text": "<h2>Muziekverzorging nodig voor jouw event?</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
