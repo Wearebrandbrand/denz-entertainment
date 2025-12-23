@@ -2623,7 +2623,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Klaar voor een voorstel op maat?</h2>",
+            "text": "<h2>Professionele licht- en geluidstechniek nodig?</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -2649,7 +2649,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Vertel ons het type event, het aantal personen en de locatie. Wij adviseren direct welke set het beste past, inclusief opbouw en bediening indien gewenst.</p>",
+            "text": "<p>Vertel ons waar je event plaatsvindt en wat het programma is. Wij adviseren je graag.</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -2675,8 +2675,8 @@
           "type": "button",
           "name": "t:names.button",
           "settings": {
-            "label": "Vraag nu een offerte aan",
-            "link": "shopify://collections/all",
+            "label": "Plan een kennismaking",
+            "link": "shopify://pages/contact",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "fit-content",
