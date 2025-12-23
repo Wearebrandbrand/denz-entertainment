@@ -1398,7 +1398,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Professionele licht- en geluidsapparatuur huren in Westland</h2>",
+                "text": "<h2>Professionele ondersteuning voor feesten en events</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1423,7 +1423,7 @@
             "text_UcXmBm": {
               "type": "text",
               "settings": {
-                "text": "<ul><li>Speaker- en PA-sets voor binnen én buiten</li><li>Lichtsets voor sfeer, dansvloer of podia</li><li>Microfoons, mixers en complete geluidsinstallaties</li><li>DJ-gear (Pioneer, monitors, booth)</li><li>Complete sets voor snelle plug-and-play oplossingen</li></ul>",
+                "text": "<p>Event support wordt onder andere ingezet bij:</p><ul><li>Bruiloften<br/></li><li>Bedrijfsfeesten<br/></li><li>Particuliere events<br/></li><li>Events met meerdere onderdelen<br/></li><li>Feesten op externe locaties</li></ul>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "left",
@@ -1448,8 +1448,8 @@
             "button_thBNTb": {
               "type": "button",
               "settings": {
-                "label": "Bekijk alle apparatuur",
-                "link": "shopify://collections/all",
+                "label": "Bekijk alle diensten",
+                "link": "shopify://pages/diensten",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
                 "width": "fit-content",
