@@ -259,7 +259,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Wat wil je huren voor jouw event?</h2>",
+            "text": "<h2>Wat verstaan wij onder eventservice?</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -280,10 +280,37 @@
             "padding-inline-end": 0
           },
           "blocks": {}
+        },
+        "text_baEGxH": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<p>Eventservice draait om de uitvoering van een event op locatie. Het gaat niet om het leveren van apparatuur of het uitdenken van een concept, maar om het coördineren, afstemmen en begeleiden tijdens het event zelf.</p>",
+            "width": "100%",
+            "max_width": "none",
+            "alignment": "center",
+            "type_preset": "custom",
+            "font": "var(--font-body--family)",
+            "font_size": "1.125rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         }
       },
       "block_order": [
-        "text_XXBttK"
+        "text_XXBttK",
+        "text_baEGxH"
       ],
       "name": "t:names.rich_text_section",
       "settings": {
@@ -317,234 +344,6 @@
     "section_YGk7LC": {
       "type": "section",
       "blocks": {
-        "group_ijcWY9": {
-          "type": "group",
-          "name": "t:names.column",
-          "settings": {
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "center",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 8,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "link": "",
-            "open_in_new_tab": false,
-            "placeholder": "",
-            "padding-block-start": 10,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_7fxyn6": {
-              "type": "text",
-              "name": "t:names.heading",
-              "settings": {
-                "text": "<h3>Licht & Geluid huren</h3>",
-                "width": "100%",
-                "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "h3",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_7yW4zw": {
-              "type": "text",
-              "name": "t:names.description",
-              "settings": {
-                "text": "<p>Kies uit speakersets, lichtsets, microfoons en complete geluidssystemen voor feesten, tuinevents en bedrijfsevents.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "button_GY3BYE": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Licht & Geluid huren",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_7fxyn6",
-            "text_7yW4zw",
-            "button_GY3BYE"
-          ]
-        },
-        "group_ndadHg": {
-          "type": "group",
-          "name": "t:names.column",
-          "settings": {
-            "content_direction": "column",
-            "vertical_on_mobile": true,
-            "horizontal_alignment": "flex-start",
-            "vertical_alignment": "center",
-            "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "center",
-            "vertical_alignment_flex_direction_column": "flex-start",
-            "gap": 8,
-            "width": "fill",
-            "custom_width": 100,
-            "width_mobile": "fill",
-            "custom_width_mobile": 100,
-            "height": "fit",
-            "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
-            "background_media": "none",
-            "video_position": "cover",
-            "background_image_position": "cover",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_radius": 0,
-            "toggle_overlay": false,
-            "overlay_color": "#00000026",
-            "overlay_style": "solid",
-            "gradient_direction": "to top",
-            "link": "",
-            "open_in_new_tab": false,
-            "placeholder": "",
-            "padding-block-start": 10,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "text_hmDjrQ": {
-              "type": "text",
-              "name": "t:names.heading",
-              "settings": {
-                "text": "<h3>DJ apparatuur huren</h3>",
-                "width": "100%",
-                "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "h3",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "text_V436K8": {
-              "type": "text",
-              "name": "t:names.description",
-              "settings": {
-                "text": "<p>Van Pioneer DJ-sets tot mixers, DJ-booths en monitoren. Ideaal voor feestjes, bruiloften en professionele producties.</p>",
-                "width": "100%",
-                "max_width": "normal",
-                "alignment": "center",
-                "type_preset": "rte",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
-            "button_afTVjb": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "DJ gear huren",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "text_hmDjrQ",
-            "text_V436K8",
-            "button_afTVjb"
-          ]
-        },
         "group_zBjrEy": {
           "type": "group",
           "name": "t:names.column",
@@ -589,10 +388,10 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Complete sets</h3>",
+                "text": "<h2>Coördinatie op locatie</h2>",
                 "width": "100%",
                 "max_width": "normal",
-                "alignment": "center",
+                "alignment": "left",
                 "type_preset": "h3",
                 "font": "var(--font-body--family)",
                 "font_size": "1rem",
@@ -775,8 +574,6 @@
         }
       },
       "block_order": [
-        "group_ijcWY9",
-        "group_ndadHg",
         "group_zBjrEy",
         "group_EYAC7c"
       ],
