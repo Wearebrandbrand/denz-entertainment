@@ -3070,13 +3070,13 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Vertel ons het type event, het aantal personen en de locatie. Wij adviseren direct welke set het beste past, inclusief opbouw en bediening indien gewenst.</p>",
+            "text": "<p>Vertel ons wat voor event je organiseert en welke sfeer je zoekt. Wij denken graag met je mee.</p>",
             "width": "fit-content",
-            "max_width": "normal",
+            "max_width": "none",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "custom",
             "font": "var(--font-body--family)",
-            "font_size": "1rem",
+            "font_size": "1.125rem",
             "line_height": "normal",
             "letter_spacing": "normal",
             "case": "none",
@@ -3096,8 +3096,8 @@
           "type": "button",
           "name": "t:names.button",
           "settings": {
-            "label": "Vraag nu een offerte aan",
-            "link": "shopify://collections/all",
+            "label": "Plan een kennismaking",
+            "link": "shopify://pages/contact",
             "open_in_new_tab": false,
             "style_class": "button",
             "width": "fit-content",
@@ -3149,7 +3149,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h3>Veelgestelde vragen over eventverhuur in  Westland</h3>",
+            "text": "<h3>Veelgestelde vragen over muziekverzorging</h3>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -3266,129 +3266,6 @@
               },
               "block_order": [
                 "text_XmTBpf"
-              ]
-            },
-            "accordion_row_ipDttb": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Helpen jullie ook met bediening tijdens het event?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_Rq3tHn": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>Ja. Ervaren technici kunnen blijven voor geluid, licht, DJ-support of stagebeheer.</p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_Rq3tHn"
-              ]
-            },
-            "accordion_row_UwJMkA": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Wat als er iets stuk gaat?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_DVCxqz": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>We werken met kwaliteitsmerken en leveren reservekabels en duidelijke begeleiding. Bij dringende problemen zijn we snel ter plaatse in Westland.</p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_DVCxqz"
-              ]
-            },
-            "accordion_row_yiif8E": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Kunnen jullie me adviseren welke set ik nodig heb?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_pDRBpF": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>Ja. Op basis van jouw locatie, het type event en het aantal gasten stellen we altijd een passende set voor. We kijken naar ruimteakoestiek, benodigde geluidssterkte en welke lichtoplossingen het beste werken voor jouw situatie.</p>",
-                    "width": "100%",
-                    "max_width": "normal",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "1rem",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "color": "var(--color-foreground)",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_pDRBpF"
               ]
             },
             "accordion_row_WpKrGc": {
@@ -3516,9 +3393,6 @@
           "block_order": [
             "accordion_row_NbWgWP",
             "accordion_row_MTYRJe",
-            "accordion_row_ipDttb",
-            "accordion_row_UwJMkA",
-            "accordion_row_yiif8E",
             "accordion_row_WpKrGc",
             "accordion_row_Nwc43G",
             "accordion_row_yTqDEa"
