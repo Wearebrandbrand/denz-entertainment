@@ -1582,11 +1582,27 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "button_aHEDiz": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Bekijk alle DJ-apparatuur",
+                "link": "shopify://collections/all",
+                "open_in_new_tab": false,
+                "style_class": "button-secondary",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "text_NiHR4P",
-            "text_rmBcbY"
+            "text_rmBcbY",
+            "button_aHEDiz"
           ]
         }
       },
@@ -1669,7 +1685,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Zo werkt DJ-gear huren bij Denz</h2>",
+                "text": "<h2>Zo werkt DJ-apparatuur huren bij Denz</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1715,11 +1731,27 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
+            },
+            "button_ak6Mhd": {
+              "type": "button",
+              "name": "t:names.button",
+              "settings": {
+                "label": "Neem contact op",
+                "link": "shopify://pages/contact",
+                "open_in_new_tab": false,
+                "style_class": "button-secondary",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
             }
           },
           "block_order": [
             "text_nenWA9",
-            "text_7PinCi"
+            "text_7PinCi",
+            "button_ak6Mhd"
           ]
         },
         "image_EdecaP": {
