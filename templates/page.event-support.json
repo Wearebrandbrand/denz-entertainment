@@ -2777,7 +2777,7 @@
               "type": "product-description",
               "name": "t:names.product_description",
               "settings": {
-                "text": "<p>Coördinatie en afstemming tijdens het event op locatie.</p>",
+                "text": "<p>Coördinatie, ondersteuning en afstemming tijdens het event op locatie.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -2875,7 +2875,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Techniek afgestemd op ruimte en programma.</p>",
+                "text": "<p>Licht- en geluidstechniek afgestemd op ruimte en programma.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -2973,7 +2973,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Muziek afgestemd op moment en publiek.</p>",
+                "text": "<p>Muziekale invulling afgestemd op moment en publiek.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
