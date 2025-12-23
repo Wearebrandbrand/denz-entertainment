@@ -348,7 +348,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Events op maat <br/>voor verschillende <br/>gelegenheden</h2>",
+            "text": "<h2>Begeleiding voor elk <br/>moment van jullie bruiloft</h2>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -379,7 +379,7 @@
             "horizontal_alignment": "flex-start",
             "vertical_alignment": "center",
             "align_baseline": false,
-            "horizontal_alignment_flex_direction_column": "center",
+            "horizontal_alignment_flex_direction_column": "flex-start",
             "vertical_alignment_flex_direction_column": "flex-start",
             "gap": 8,
             "width": "fill",
@@ -414,7 +414,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Bruiloften</h3>",
+                "text": "<h3>Ceremonie</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -440,7 +440,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Persoonlijke begeleiding voor ceremonie, borrel en feestavond.</p>",
+                "text": "<p>Versterking van spraak, muziek en een heldere geluidsopstelling.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -461,27 +461,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_GY3BYE": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Lees meer",
-                "link": "shopify://pages/bruiloften",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_7fxyn6",
-            "text_7yW4zw",
-            "button_GY3BYE"
+            "text_7yW4zw"
           ]
         },
         "group_ndadHg": {
@@ -528,7 +512,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Bedrijfsfeesten</h3>",
+                "text": "<h3>Borrel en diner</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -554,7 +538,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Professionele begeleiding voor personeelsfeesten, jubilea en events.</p>",
+                "text": "<p>Sfeervolle achtergrondmuziek en subtiele verlichting.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -575,27 +559,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_afTVjb": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Lees meer",
-                "link": "shopify://pages/bedrijfsfeesten",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_hmDjrQ",
-            "text_V436K8",
-            "button_afTVjb"
+            "text_V436K8"
           ]
         },
         "group_zBjrEy": {
@@ -642,7 +610,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Particuliere events</h3>",
+                "text": "<h3>Feestavond</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -668,7 +636,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Persoonlijke begeleiding voor feesten met een eigen sfeer.</p>",
+                "text": "<p>DJ, licht en geluid voor een dansvloer die blijft vullen.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "center",
@@ -689,27 +657,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_Y4M4aK": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Lees meer",
-                "link": "shopify://pages/particuliere-feesten",
-                "open_in_new_tab": false,
-                "style_class": "button-secondary",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_RMeeJT",
-            "text_aKA9td",
-            "button_Y4M4aK"
+            "text_aKA9td"
           ]
         }
       },
@@ -723,7 +675,7 @@
       "settings": {
         "content_direction": "row",
         "vertical_on_mobile": true,
-        "horizontal_alignment": "center",
+        "horizontal_alignment": "flex-start",
         "vertical_alignment": "center",
         "align_baseline": false,
         "horizontal_alignment_flex_direction_column": "flex-start",
