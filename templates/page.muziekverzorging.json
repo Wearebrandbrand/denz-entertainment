@@ -3193,7 +3193,7 @@
             "accordion_row_NbWgWP": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "Kunnen jullie de apparatuur bezorgen en opbouwen?",
+                "heading": "Is muziekverzorging hetzelfde als een DJ huren?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3202,7 +3202,7 @@
                 "text_XYRGkN": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Ja, we leveren door heel Westland en omstreken en kunnen alles op locatie opbouwen, aansluiten en testen. </p>",
+                    "text": "<p>Nee, muziekverzorging omvat advies, afstemming en uitvoering.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -3232,7 +3232,7 @@
             "accordion_row_MTYRJe": {
               "type": "_accordion-row",
               "settings": {
-                "heading": "Kan ik de apparatuur zelf ophalen?",
+                "heading": "Kunnen jullie rekening houden met specifieke muziekvoorkeuren?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3241,7 +3241,7 @@
                 "text_XmTBpf": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Dat kan. We helpen je met inladen en uitleg over bediening.</p>",
+                    "text": "<p>Ja, wensen worden altijd vooraf besproken.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -3272,7 +3272,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Is het mogelijk om apparatuur meerdere dagen te huren?",
+                "heading": "Is muziekverzorging ook geschikt voor zakelijke events?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3282,7 +3282,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Ja, dat kan. Voor meerdaagse evenementen of opbouwdagen rekenen we een aangepast tarief. Geef het aantal dagen door in de offerteaanvraag, dan nemen we dit direct mee in de prijs.</p>",
+                    "text": "<p>Ja, muziek wordt afgestemd op het type en doel van het event.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -3313,7 +3313,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Hoe werkt het ophalen of bezorgen van apparatuur?",
+                "heading": "Kunnen jullie samenwerken met andere leveranciers?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3322,7 +3322,7 @@
                 "text_DiE3pk": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Je kunt de apparatuur zelf ophalen of door ons laten bezorgen in Westland en omgeving. Bij bezorging kunnen we de set indien gewenst ook opbouwen, afstellen en na het event weer ophalen.</p>",
+                    "text": "<p>Ja, afstemming met andere partijen is onderdeel van de dienst.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -3353,7 +3353,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Kunnen jullie tijdens het event ook ondersteuning bieden?",
+                "heading": "In welke regio leveren jullie muziekverzorging?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -3362,7 +3362,7 @@
                 "text_fkqtXp": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>Zeker. Onze technici kunnen aanwezig zijn voor licht- en geluidsbediening, DJ-support of backstage werkzaamheden. Dit is vooral handig bij bedrijfsevents, grotere feesten of bruiloften.</p>",
+                    "text": "<p>Wij werken voornamelijk in Westland, Den Haag en omgeving.</p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
