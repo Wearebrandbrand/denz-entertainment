@@ -1778,6 +1778,7 @@
         "image_P3k4HU": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Denz_entertainment_banner.jpg",
             "link": "",
             "image_ratio": "square",
             "width": "fill",
@@ -1788,7 +1789,7 @@
             "border": "none",
             "border_width": 1,
             "border_opacity": 100,
-            "border_radius": 0,
+            "border_radius": 5,
             "padding-block-start": 0,
             "padding-block-end": 0,
             "padding-inline-start": 0,
@@ -1864,13 +1865,13 @@
             "text_x3p68P": {
               "type": "text",
               "settings": {
-                "text": "<p>Met zorg gemaakt en onvoorwaardelijk geliefd bij onze klanten, overtreft deze kenmerkende bestseller alle verwachtingen.</p>",
+                "text": "<p>Denz voert regelmatig opdrachten uit in <strong>Westland en de omliggende regio’s</strong>. Onze werkzaamheden bestaan uit het begeleiden en ondersteunen van feesten en events, waaronder bruiloften, bedrijfsfeesten en particuliere events. Door onze lokale aanwezigheid zijn we goed bekend met locaties, leveranciers en praktische omstandigheden in de regio.</p><p>Wij zijn onder andere actief in:</p><ul><li><strong>Naaldwijk:</strong> bruiloften, bedrijfsfeesten en particuliere events<br/></li><li><strong>Wateringen:</strong> personeelsfeesten en events op locatie<br/></li><li><strong>De Lier:</strong> particuliere feesten en kleinschalige producties<br/></li><li><strong>Monster:</strong> events met licht-, geluid- en muziekondersteuning<br/></li><li><strong>Den Haag en omgeving:</strong> zakelijke events en grotere producties<br/></li></ul><p>Deze regionale spreiding maakt het mogelijk om snel te schakelen, locaties goed in te schatten en events efficiënt te ondersteunen.</p>",
                 "width": "fit-content",
-                "max_width": "narrow",
+                "max_width": "normal",
                 "alignment": "left",
-                "type_preset": "rte",
+                "type_preset": "custom",
                 "font": "var(--font-body--family)",
-                "font_size": "1rem",
+                "font_size": "1.125rem",
                 "line_height": "normal",
                 "letter_spacing": "normal",
                 "case": "none",
@@ -1885,26 +1886,11 @@
                 "padding-inline-end": 0
               },
               "blocks": {}
-            },
-            "button_hfxWed": {
-              "type": "button",
-              "settings": {
-                "label": "Nu shoppen",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
             "text_XwB68X",
-            "text_x3p68P",
-            "button_hfxWed"
+            "text_x3p68P"
           ]
         }
       },
@@ -1939,6 +1925,95 @@
         "gradient_direction": "to top",
         "padding-block-start": 40,
         "padding-block-end": 40
+      }
+    },
+    "section_rdAKLk": {
+      "type": "section",
+      "blocks": {
+        "text_UYTAze": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>Portfolio in opbouw</h2>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_mejPbw": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>Ons portfolio wordt continu uitgebreid met nieuwe opdrachten en events. Zodra projecten zijn afgerond en vrijgegeven, worden deze hier toegevoegd met beeldmateriaal en toelichting.</p>",
+            "width": "fit-content",
+            "max_width": "none",
+            "alignment": "left",
+            "type_preset": "custom",
+            "font": "var(--font-body--family)",
+            "font_size": "1.125rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_UYTAze",
+        "text_mejPbw"
+      ],
+      "name": "t:names.rich_text_section",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 25,
+        "section_width": "page-width",
+        "section_height": "small",
+        "section_height_custom": 50,
+        "color_scheme": "",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": true,
+        "overlay_color": "#edf2f7",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 48,
+        "padding-block-end": 48
       }
     },
     "section_hUVKFK": {
@@ -2442,6 +2517,7 @@
     "section_A8AD6b",
     "section_Mf8TtX",
     "section_6cWL3E",
+    "section_rdAKLk",
     "section_hUVKFK",
     "section_jTRgNG",
     "section_x4RR3B"
