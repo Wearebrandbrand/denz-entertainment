@@ -63,7 +63,7 @@
         "text_EcqUcG": {
           "type": "text",
           "settings": {
-            "text": "<h1>Event support voor feesten en events</h1>",
+            "text": "<h1>Portfolio & opdrachten</h1>",
             "width": "fit-content",
             "max_width": "narrow",
             "alignment": "left",
@@ -89,7 +89,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Praktische ondersteuning tijdens voorbereiding en uitvoering</h2>",
+            "text": "<p>Een selectie van events en producties die wij hebben uitgevoerd</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -114,7 +114,7 @@
         "text_PXYWUU": {
           "type": "text",
           "settings": {
-            "text": "<p>Wij verzorgen event support voor feesten en events in Westland en omgeving. </p><p>Deze dienst richt zich op praktische ondersteuning achter de schermen, zodat de uitvoering soepel verloopt en betrokkenen worden ontlast.</p>",
+            "text": "<p>Op deze pagina krijg je een overzicht van opdrachten en events waarbij Denz betrokken is geweest. </p><p>Van bruiloften en bedrijfsfeesten tot particuliere events en technische producties in Westland en omgeving.</p>",
             "width": "fit-content",
             "max_width": "none",
             "alignment": "left",
@@ -175,42 +175,7 @@
             "padding-inline-start": 0,
             "padding-inline-end": 0
           },
-          "blocks": {
-            "button_Qyi6tC": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Plan een kennismaking",
-                "link": "shopify://pages/contact",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
-            },
-            "button_EkdmFW": {
-              "type": "button",
-              "name": "t:names.button",
-              "settings": {
-                "label": "Laat je adviseren",
-                "link": "shopify://pages/contact",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
-            }
-          },
-          "block_order": [
-            "button_Qyi6tC",
-            "button_EkdmFW"
-          ]
+          "blocks": {}
         }
       },
       "block_order": [
@@ -259,11 +224,11 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Wat verstaan wij onder event support?</h2>",
+            "text": "<h2>Wat je in ons portfolio terugvindt</h2>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
-            "type_preset": "rte",
+            "type_preset": "h2",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
@@ -285,7 +250,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Event support is de ondersteunende rol tijdens een event. Het gaat om praktische taken die nodig zijn om het event goed te laten verlopen, zonder zichtbaar op de voorgrond te staan. Wij ondersteunen waar nodig en zorgen voor overzicht en rust op locatie.</p>",
+            "text": "<p>Ons portfolio laat zien hoe wij events uitvoeren, niet alleen wat we leveren. De focus ligt op begeleiding, techniek en ondersteuning tijdens uiteenlopende opdrachten. Deze pagina groeit mee naarmate er nieuwe projecten worden toegevoegd.</p>",
             "width": "100%",
             "max_width": "none",
             "alignment": "center",
@@ -348,9 +313,9 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h2>Praktische <br/>ondersteuning <br/>op locatie</h2>",
+            "text": "<h2>Type opdrachten </h2><h2>die wij uitvoeren</h2>",
             "width": "fit-content",
-            "max_width": "normal",
+            "max_width": "narrow",
             "alignment": "left",
             "type_preset": "rte",
             "font": "var(--font-body--family)",
@@ -414,7 +379,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Ondersteuning bij op- en afbouw</h3>",
+                "text": "<h3>Bruiloften</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -440,7 +405,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Hulp bij voorbereidende werkzaamheden en afronding op locatie.</p>",
+                "text": "<p>Begeleiding van ceremonie, diner en feestavond.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -512,7 +477,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Praktische taken tijdens het event</h3>",
+                "text": "<h3>Bedrijfsfeesten</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -538,7 +503,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Hulp bij uiteenlopende werkzaamheden tijdens het event.</p>",
+                "text": "<p>Zakelijke events zoals personeelsfeesten en jubilea.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -610,7 +575,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Backstage ondersteuning</h3>",
+                "text": "<h3><strong>Particuliere events</strong></h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -636,7 +601,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Aanwezigheid achter de schermen voor artiesten en crew.</p>",
+                "text": "<p>Verjaardagen, tuinfeesten en privébijeenkomsten.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -708,7 +673,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h3>Aanspreekpunt tijdens het event</h3>",
+                "text": "<h3>Technische producties</h3>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -734,7 +699,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>Beschikbaar voor vragen, ondersteuning en afstemming op locatie.</p>",
+                "text": "<p>Licht, geluid en ondersteuning op locatie.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
